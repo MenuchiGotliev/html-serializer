@@ -1,0 +1,17 @@
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\bin\Debug\net6.0\Html-Serializer.exe
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\bin\Debug\net6.0\Html-Serializer.deps.json
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\bin\Debug\net6.0\Html-Serializer.runtimeconfig.json
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\bin\Debug\net6.0\Html-Serializer.dll
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\bin\Debug\net6.0\Html-Serializer.pdb
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\obj\Debug\net6.0\Html-Serializer.csproj.AssemblyReference.cache
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\obj\Debug\net6.0\Html-Serializer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\obj\Debug\net6.0\Html-Serializer.AssemblyInfoInputs.cache
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\obj\Debug\net6.0\Html-Serializer.AssemblyInfo.cs
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\obj\Debug\net6.0\Html-Serializer.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\obj\Debug\net6.0\Html-Serializer.dll
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\obj\Debug\net6.0\refint\Html-Serializer.dll
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\obj\Debug\net6.0\Html-Serializer.pdb
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\obj\Debug\net6.0\Html-Serializer.genruntimeconfig.cache
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\obj\Debug\net6.0\ref\Html-Serializer.dll
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\bin\Debug\net6.0\HtmlVoidTags.json
+C:\Users\User\Documents\תכנות מקצועות\דוטנט\Html-Serializer\Html-Serializer\bin\Debug\net6.0\HtmlTags.json
